@@ -1,0 +1,7 @@
+{
+  "audio2pose_checkpoint": "./checkpoints/audio2pose_00140-model.pth",
+  "audio2exp_checkpoint": "./checkpoints/audio2exp_00300-model.pth",
+  "pose_style": 0,
+  "ref_eyeblink": "examples/driven_audio/ref_eyeblink.npy",
+  "ref_pose": "examples/driven_audio/ref_pose.npy"
+}
