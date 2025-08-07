@@ -32,6 +32,8 @@ Make sure the following libraries are installed:
 ```bash
 pip install git+https://github.com/suno-ai/bark.git
 pip install librosa soundfile
+---
+
 
 ▶️ How to Run
 This notebook is designed to run in Google Colab for ease of file handling and playback.
