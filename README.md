@@ -28,3 +28,19 @@ This module allows the user to upload a **30–60 second reference audio clip** 
 ## ⚙️ Requirements
 
 Make sure the following libraries are installed:
+
+
+▶️ How to Run
+This notebook is designed to run in Google Colab for ease of file handling and playback.
+
+Choose your mode:
+
+1 for Week 1: Text-to-Speech
+
+2 for Week 2: Reference Voice + Text
+
+Upload audio file if using Week 2
+
+Enter text
+
+The generated .wav file will be downloaded automatically
