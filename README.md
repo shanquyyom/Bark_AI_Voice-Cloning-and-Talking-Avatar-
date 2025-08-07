@@ -53,4 +53,32 @@ bark_week1.wav – Text-to-Speech output
 
 cloned_voice_week2.wav – Simulated voice cloning output
 
+---
+
+## 📦 Week 3 – SadTalker (Talking Avatar)
+
+### 🔹 Objective:
+Take a photo and an audio file to generate a talking avatar with lip sync using **SadTalker**.
+
+### 🛠️ Tools:
+- Python
+- SadTalker (face animation)
+- VS Code (Local setup)
+
+### 📁 Files Uploaded:
+- ✅ `inference.py` – Run this to generate avatar
+- ✅ `requirements.txt` – Install required libraries
+- ✅ `SadTalker_Sample.zip` – Contains sample setup and output
+- ✅ `week3_sadtalker_steps.md` – Full guide of steps done in VS Code
+
+### 🔗 Google Drive:
+**📁 Full SadTalker Folder with Checkpoints + Outputs:**  
+[Click to View on Google Drive](https://drive.google.com/your-sadtalker-folder-link)
+
+### 🎥 Demo Videos:
+- ▶️ [Demo Video 1](https://drive.google.com/your-demo-video-1-link)
+- ▶️ [Demo Video 2](https://drive.google.com/your-demo-video-2-link)
+
+---
+
 
