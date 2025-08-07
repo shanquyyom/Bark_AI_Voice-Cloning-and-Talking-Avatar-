@@ -53,7 +53,4 @@ bark_week1.wav – Text-to-Speech output
 
 cloned_voice_week2.wav – Simulated voice cloning output
 
-💡 Author
-Shan Quyyoom
-🔗 https://www.linkedin.com/in/shan-quyyoom-452923365
-📍 Jhang, Pakistan
+
