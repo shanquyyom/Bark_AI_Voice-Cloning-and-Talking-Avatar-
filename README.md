@@ -71,7 +71,7 @@ Take a photo and an audio file to generate a talking avatar with lip sync using 
 
 ### 🔗 Google Drive:
 **📁 Full SadTalker Folder with Checkpoints + Outputs:**  
-[Click to View on Google Drive](https://drive.google.com/your-sadtalker-folder-link)
+[Click to View on Google Drive](https://drive.google.com/file/d/1zdXaNVrEQzjUm2tl1hJK2i9fgXyFBR0h/view?usp=sharing)
 
 ### 🎥 Demo Videos:
 - ▶️ [Demo Video 1](https://drive.google.com/file/d/1XBlPftLMZLuTdd3xmEM1btowX4KcjKzD/view?usp=sharing)
