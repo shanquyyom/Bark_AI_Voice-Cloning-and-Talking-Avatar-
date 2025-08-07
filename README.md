@@ -73,7 +73,7 @@ Take a photo and an audio file to generate a talking avatar with lip sync using 
 **📁 Full SadTalker Folder with Checkpoints + Outputs:**  
 ### 🔗 Download:
 - [SadTalker.zip](https://drive.google.com/file/d/1zdXaNVrEQzjUm2tl1hJK2i9fgXyFBR0h/view?usp=sharing)
-- [Checkpoints.zip](https://drive.google.com/file/d/1XyZ...ABC/view?usp=sharing) – Pre-trained models
+- [Checkpoints.zip](https://drive.google.com/drive/folders/1SOUnEZj81vjfCggYxlAgBdCvxmBp9s_L?usp=sharing) – Pre-trained models
 
 ### 🎥 Demo Videos:
 - ▶️ [Demo Video 1](https://drive.google.com/file/d/1XBlPftLMZLuTdd3xmEM1btowX4KcjKzD/view?usp=sharing)
